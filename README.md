@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Welcome to my github!
-I'm Walter, Java developer from Brazil :brazil:, currently living in Fortaleza, Ceará. 
+I'm Walter, Java developer from Brazil :brazil: 
+currently living in Fortaleza, Ceará. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-Jucah&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Jucah)](https://github.com/anuraghazra/github-readme-stats)
