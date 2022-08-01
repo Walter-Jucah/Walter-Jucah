@@ -1,4 +1,4 @@
-<p align="center">
+
 ### Hi there 👋
 
 Welcome to my github!  
