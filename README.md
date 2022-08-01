@@ -1,3 +1,4 @@
+<p align="center">
 ### Hi there 👋
 
 Welcome to my github!  
@@ -16,3 +17,4 @@ Currently living in Fortaleza, Ceará.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Walter-Jucah)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/walterjuc%C3%A1//)  
 
+</p>
